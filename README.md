@@ -1,8 +1,7 @@
 ## Olá! Eu sou Daniel! 
 
-Sou estudante e trabalho atualmente com Programação;
+Estou trabalhando atualmente como Back-end;
  <div>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smarticogit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarticogit&layout=compact&langs_count=16&theme=dracula"/>
 </div>
