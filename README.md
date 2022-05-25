@@ -7,12 +7,8 @@ Estou trabalhando atualmente como Back-end;
 </div>
 <div style="display: inline_block">
   <h4>Linguagens</h4>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a align="center" href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+ <img src="./resources/assets/html.png" height="45"/> <img src="./resources/assets/css.png" height="45"/> <img src="./resources/assets/js.png" height="40"/> <img src="./resources/assets/react.png" height="45"/>
+<img src="./resources/assets/node.png" height="45"/> <img src="./resources/assets/npm.svg" height="45"/> <img src="./resources/assets/express.png" height="40"/> <img src="./resources/assets/postgresql.png" height="45"/> <img src="./resources/assets/github.svg" height="40"/> <img src="./resources/assets/git.png" height="45"/>
 </div>
  <br>
 <div style="display: inline-block"><br> 
