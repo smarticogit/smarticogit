@@ -16,7 +16,7 @@ Estou trabalhando atualmente como Back-end;
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="PostegreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-E34F80?style=for-the-badge&logo=java&logoColor=white" />
  
 </p>
 
