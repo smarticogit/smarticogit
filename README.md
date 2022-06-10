@@ -19,6 +19,8 @@ Estou trabalhando atualmente como Back-end;
 <img alt="Java" src="https://img.shields.io/badge/Java-E34F80?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/Aws-349963?style=for-the-badge&logo=aws&logoColor=white" />
 <img alt="DOCKER" src="https://img.shields.io/badge/Docker-143963?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="KAFKA" src="https://img.shields.io/badge/Kafka-145063?style=for-the-badge&logo=kafka&logoColor=white" />
+<img alt="MYSQL" src="https://img.shields.io/badge/Mysql-145983?style=for-the-badge&logo=mysql&logoColor=white" />
  
 </p>
 
@@ -27,6 +29,8 @@ Estou trabalhando atualmente como Back-end;
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
+  <img alt="IntelliJ" src="https://img.shields.io/badge/Intellij-204910?style=for-the-badge&logo=intellij&logoColor=white" />
+  <img alt="Beekeeper" src="https://img.shields.io/badge/Beekeeper-204920?style=for-the-badge&logo=beekeeper&logoColor=white" />
 </p>
 </div>
  <br>
